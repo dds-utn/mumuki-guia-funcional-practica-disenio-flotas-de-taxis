@@ -15,6 +15,7 @@ Regularmente, a la empresa se le puede exigir renovar la verificación técnica 
 ### 1. Rematriculaciones
 
 Se trata de dada una empresa, actualizar el año de rematriculación de sus autos. Queremos: 
+
   * `rematricularViejos`: rematricular a todos los autos que sean viejos  (aquellos que tienen más de tres años) 
   * `rematricularRevisadosHace`: rematricular a todos los autos que hayan sido revisados hace mas de N anios
 
