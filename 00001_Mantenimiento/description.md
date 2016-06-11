@@ -3,7 +3,7 @@ Nos informaron que hasta el momento, la consultora anterior definió el siguient
 ```haskell
 type Anio = Int
 
-data Empresa = Persona {nombre :: String, flota :: [Auto] }
+data Empresa = Empresa {nombre :: String, flota :: [Auto] }
 data Auto = Auto {  modelo :: String, 
                     anioFabricacion :: Anio, 
                     anioUltimaMatricula :: Anio, 
