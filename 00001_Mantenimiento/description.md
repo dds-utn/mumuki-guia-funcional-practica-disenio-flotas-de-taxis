@@ -29,13 +29,4 @@ Queremos también también actualizar el año de revisión de los autos de la em
     * Si el modelo es fordQu.
   * `revisarMalaTandaDeRevisiones`: hubo una mala tanda de revisiones de 2015 a los reno60, así que queremos revisarlos a estos modelos que hayan sido revisados por última vez en dicho año
   
-> Escribí las funciones `revisarMalaTandaDeRevisiones`, `revisarMalos` y `revisarViejos`
-
-
-_Puede llegar a ser util la función isInfixOf, cuya firma es_
-
-~~~haskell
-isInfixOf :: Eq a => [a] -> [a] -> Bool
-> isInfixOf "Haskell" "I really like Haskell
- True
-~~~
+> Escribí las funciones `rematricularRevisadosHace`, `rematricularViejos`, `revisarMalaTandaDeRevisiones`, `revisarMalos` y `revisarViejos`
