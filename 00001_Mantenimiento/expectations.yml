@@ -1,4 +1,4 @@
 ---
 expectations:
-- inspection: HasBinding
-  binding: rematricularViejos
+- binding: rematricularViejos
+  inspection: HasBinding
