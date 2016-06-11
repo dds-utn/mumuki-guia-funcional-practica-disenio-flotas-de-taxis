@@ -1,0 +1,9 @@
+---
+name: Fotas de taxis
+locale: es
+type: practice
+beta: false
+teacher_info: Guía tipo examen de diseño funcional
+language: haskell
+id_format: '%05d'
+order: []
