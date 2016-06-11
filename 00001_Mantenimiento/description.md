@@ -16,13 +16,14 @@ Regularmente, a la empresa se le puede exigir renovar la verificación técnica 
     * Si el modelo es capicua.
     * Si no hay números.
     * Si hay más de 10 números.
+    
+
   * Todos los modelos que comiencen con "FORD" y cuya última revisión sea en el 2015 (nos enteramos que hubieron muchas coimas).
   
 De la misma forma, aveces va a ser necesario rematricular a:
   * Todos los autos.
   * Los que sean autos viejos.
   * Los que hayan sido revisados hace más de N años.
-  * 
   
 
 
