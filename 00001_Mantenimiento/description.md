@@ -22,3 +22,16 @@ De la misma forma, aveces va a ser necesario rematricular a:
   * Todos los autos.
   * Los que sean autos viejos.
   * Los que hayan sido revisados hace más de N años.
+  * 
+  
+
+
+
+
+_Puede llegar a ser util la función isInfixOf, cuya firma es_
+
+~~~haskell
+isInfixOf :: Eq a => [a] -> [a] -> Bool
+> isInfixOf "Haskell" "I really like Haskell
+ True
+~~~
