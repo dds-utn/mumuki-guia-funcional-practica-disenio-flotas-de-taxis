@@ -3,12 +3,12 @@ name: Flotas de taxis
 locale: es
 type: practice
 beta: false
-teacher_info: "Guía tipo examen de diseño funcional\n\nBuenas! Debido al problema
-  que existe con la llegada de Übar al país, el gobierno nos pidió que le demos una
-  mano para controlar un poco más a las empresas de taxis.\nNos informaron que hasta
-  el momento, la consultora anterior definió el siguiente tipo de dato (que nos pareció
-  util mantener)\n\n´´´\ndata Empresa = Persona {nombre :: String, flota :: [Auto]
-  }\n\n´´´ \n"
+teacher_info: |
+  Guía tipo examen de diseño funcional
+
+  Buenas! Debido al problema que existe con la llegada de Übar al país, el gobierno nos pidió que le demos una mano para controlar un poco más a las empresas de taxis.
+
+  Ayudanos!
 language: haskell
 id_format: '%05d'
 order:
