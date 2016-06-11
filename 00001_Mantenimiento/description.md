@@ -26,7 +26,7 @@ De la misma forma, aveces va a ser necesario rematricular a:
   * Los que hayan sido revisados hace más de N años.
   
 
-
+> Definir rematricularTodos, rematricularViejos y rematricularRevisadosHaceMasDe
 
 
 _Puede llegar a ser util la función isInfixOf, cuya firma es_
