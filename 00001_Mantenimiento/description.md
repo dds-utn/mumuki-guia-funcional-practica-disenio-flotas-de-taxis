@@ -25,9 +25,9 @@ Queremos también también actualizar el año de revisión de los autos de la em
 
   * `revisarViejos`: revisa los autos  viejos  (son aquellos que tienen más de tres años)
   * `revisarMalos`: revisa los autos malos. Hay varios factores que influyen para saber si un auto es malo:
-    * Si en alguna parte del modelo se encuentra "daewo" o "smart".
+    * Si en alguna parte del modelo se encuentra `"daewo"` o `"smart"`.
     * Si el modelo es capicua.
-    * Si el modelo es fordQu.
-  * `revisarMalaTandaDeRevisiones`: hubo una mala tanda de revisiones de 2015 a los reno60, así que queremos revisarlos a estos modelos que hayan sido revisados por última vez en dicho año
+    * Si el modelo es `"fordQu"`.
+  * `revisarMalaTandaDeRevisiones`: hubo una mala tanda de revisiones de 2015 a los `"reno60"`, así que queremos revisarlos a estos modelos que hayan sido revisados por última vez en dicho año
   
 > Escribí las funciones `rematricularRevisadosHace`, `rematricularViejos`, `revisarMalaTandaDeRevisiones`, `revisarMalos` y `revisarViejos`
