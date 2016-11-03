@@ -1,6 +1,7 @@
 ---
 tags: []
-layout: upload
+layout: input_bottom
+editor: upload
 type: problem
 extra_visible: true
 language: 
