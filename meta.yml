@@ -5,6 +5,6 @@ type: practice
 beta: false
 teacher_info: Guía tipo examen de diseño funcional
 language: haskell
-id_format: '%05d'
+id_format: "%05d"
 order:
 - 1
